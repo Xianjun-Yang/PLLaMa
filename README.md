@@ -5,7 +5,7 @@ PLLaMA: an Open-source Large Language Model for Plants
 https://huggingface.co/Xianjun/PLLaMa-7b-base
 
 
-#Citation
+# Citation
 If you find PLLaMa useful in your research, please cite the following paper:
 
 ```latex
