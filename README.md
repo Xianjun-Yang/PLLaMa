@@ -1,8 +1,10 @@
 # PLLaMA
-PLLaMA: an Open-source Large Language Model for Plants
+PLLaMA: An open-source Large Language Model for Plant Science
 
 # model can be downloaded at:
 https://huggingface.co/Xianjun/PLLaMa-7b-base
+
+https://huggingface.co/Xianjun/PLLaMa-13b-base
 
 
 # Citation
