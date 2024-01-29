@@ -15,10 +15,10 @@ https://huggingface.co/Xianjun/PLLaMa-13b-instruct
 If you find PLLaMa useful in your research, please cite the following paper:
 
 ```latex
-@inproceedings{Yang2024PLLaMaAO,
+@article{yang2024pllama,
   title={PLLaMa: An Open-source Large Language Model for Plant Science},
-  author={Xianjun Yang and Junfeng Gao and Wenxin Xue and Erik Alexandersson},
-  year={2024},
-  url={https://api.semanticscholar.org/CorpusID:266741610}
+  author={Yang, Xianjun and Gao, Junfeng and Xue, Wenxin and Alexandersson, Erik},
+  journal={arXiv preprint arXiv:2401.01600},
+  year={2024}
 }
 ```
